@@ -8,13 +8,6 @@ for the last year.
 
 This script is for educational purposes and demonstrating GitHub mechanics. It should not be used to misrepresent professional contributions or coding activity.
 
-## What it looks like
-
-### Before: 
-![Before](before.png)
-### After:
-![After](after.png)
-
 ## How to use
 1. Create an empty GitHub repository. Do not initialize it.
 2. Download [the contribute.py script](https://github.com/Arhamnk06/github-activity-generator/archive/master.zip) 
