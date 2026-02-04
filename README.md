@@ -8,27 +8,16 @@ for the last year.
 
 This script is for educational purposes and demonstrating GitHub mechanics. It should not be used to misrepresent professional contributions or coding activity.
 
-## Check my other projects
-
-I created this project more than five years ago. Since then, I have built several **much more valuable
-tools** which I encourage you to check:
-
-- [sol4k](https://github.com/sol4k/sol4k) - Kotlin, JVM, and Android client for Solana
-- [podil.js](https://github.com/podiljs/podil) - Lightweight and secure database schema migration tool
-- [goxygen](https://github.com/Shpota/goxygen) - Web project generator
-- [zeit](https://github.com/Shpota/zeit) - A Fitbit clock face for learners of the German language
-
-
 ## What it looks like
 
-### Before :neutral_face: :no_mouth: :unamused: 
+### Before: 
 ![Before](before.png)
-### After :muscle: :relieved: :heart: :sunglasses: :metal: :horse: :wink: :fire: :dancer: :santa: :fireworks: :cherries: :tada:
+### After:
 ![After](after.png)
 
 ## How to use
 1. Create an empty GitHub repository. Do not initialize it.
-2. Download [the contribute.py script](https://github.com/Shpota/github-activity-generator/archive/master.zip) 
+2. Download [the contribute.py script](https://github.com/Arhamnk06/github-activity-generator/archive/master.zip) 
 and execute it passing the link on the created repository
 ```sh
 python contribute.py --repository=git@github.com:user/repo.git
